@@ -10,7 +10,7 @@
 **Скриншоти проходження курсів (Google Drive):**
 * [Скриншот 1](https://drive.google.com/file/d/19peuxtwT9ryGndjbafQhkzCzc2ISHmvr/view?usp=sharing)
 * [Скриншот 2](https://drive.google.com/file/d/1RfVcWPgnvk01oWoTJRMivsmYhleadZ8g/view?usp=sharing)
-* [Скриншот 3](https://drive.google.com/file/d/19peuxtwT9ryGndjbafQhkzCzc2ISHmvr/view?usp=sharing) *(або ваше третє посилання)*
+* [Скриншот 3](https://drive.google.com/file/d/19peuxtwT9ryGndjbafQhkzCzc2ISHmvr/view?usp=sharing) 
 
 ---
 
