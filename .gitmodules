@@ -1,0 +1,3 @@
+[submodule "devops_task_api"]
+	path = devops_task_api
+	url = https://github.com/borisme78/devops-api-task.git
